@@ -1,33 +1,41 @@
 import csv
 import re
 
-# Fungsi untuk melakukan ekstraksi dengan menggunakan regex
-def extract_mengingat(text):
-    kalimat = re.findall(r"(?<=Mengingat:)(.*?)(?=(?:\.\s*?[A-Z]\.|$))", text, re.IGNORECASE | re.DOTALL)
+def extract_pasal(text):
+    pasal = re.findall(r"Pasal\s+(\d+)\.\s+(.*?)(?=\n\n[A-Za-z]|\Z)", text, re.IGNORECASE | re.DOTALL)
+    pasal_data = [(p[0], p[1]) for p in pasal] if pasal else []
 
-    return [kal.strip() for kal in kalimat] if kalimat else []
+    poin = []
+    for p in pasal_data:
+        poin_list = re.findall(r"(?<!\w)(?:[a-z]\.|[ivx]+\.)\s*(.*?)(?=(?:\n\n[A-Za-z]\.|[a-z]\.|[ivx]+\.)|\Z)", p[1], re.IGNORECASE | re.DOTALL)
+        poin.extend([(p[0], po) for po in poin_list])
 
-# Nama file input dan output
+    return pasal_data, poin
+
 input_file = 'output_model_8_v1.csv'
-output_file = 'output6.csv'
+output_file = 'output15.csv'
 
-# Buka file input dan buat file output
 with open(input_file, 'r') as file_in, open(output_file, 'w', newline='') as file_out:
     reader = csv.reader(file_in)
     writer = csv.writer(file_out)
 
-    # Menulis header untuk file output
-    writer.writerow(['Mengingat'])
+    writer.writerow(['Pasal', 'Isi Pasal'])
 
-    # Membaca baris-baris dari file input
+    pasal_data_all = []
+    poin_all = []
+
     for row in reader:
-        text = row[0]  # Asumsikan teks berada di kolom pertama
+        text = row[0]
 
-        # Mengekstrak informasi Mengingat menggunakan fungsi extract_mengingat
-        extracted_mengingat = extract_mengingat(text)
+        pasal_data, poin = extract_pasal(text)
 
-        # Menulis setiap baris dengan informasi Mengingat yang diekstraksi ke dalam file output
-        for item in extracted_mengingat:
-            writer.writerow([item])
+        pasal_data_all.extend(pasal_data)
+        poin_all.extend(poin)
 
-print("Ekstraksi Mengingat selesai. File output.csv telah dibuat.")
+    for pasal in pasal_data_all:
+        pasal_text = f"Pasal {pasal[0]}"
+        for po in poin_all:
+            if po[0] == pasal[0]:
+                writer.writerow([pasal_text, po[1]])
+
+print("Ekstraksi informasi pasal selesai. File output.csv telah dibuat.")
