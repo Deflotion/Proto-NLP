@@ -19,10 +19,10 @@ def write_to_txt(text, output_file):
 
 # Main program
 def main():
-    pdf_file_path = r'D:/Lomba BDC/Semifinal BDC/Investasi-V1/3_PERPRES/'
-    file = 'PP_55_2015'
+    pdf_file_path = r'D:/Lomba BDC/Semifinal BDC/Investasi-V1/4_PERMEN/MENPERIN/'
+    file = 'PERMEN_PERIN_64MINDPER72016_2016'
     name_files = f'{file}.pdf'# Ganti dengan path file PDF yang ingin Anda baca
-    output_path = r'D:/Lomba BDC/Semifinal BDC/hasil/3_PERPRES/'
+    output_path = r'D:/Lomba BDC/Semifinal BDC/hasil/4_PERMEN/MENPERIN/'
     name_output = f'{file}.txt'
     output_txt_file = output_path + name_output  # Ganti dengan nama file TXT output
 
@@ -36,3 +36,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

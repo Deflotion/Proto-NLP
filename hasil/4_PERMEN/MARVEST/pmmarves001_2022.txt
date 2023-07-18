@@ -1,0 +1,3296 @@
+SALINAN  
+PERATURAN  MENTERI KOORDINATOR BIDANG KEMARITIMAN  DAN INVESTASI  
+REPUBLIK INDONESIA  
+NOMOR  1 TAHUN  2022  
+TENTANG  
+SISTEM  KLASIFIKASI KEAMANAN DAN AKSES ARSIP DINAMIS   
+KEMENTERIAN KOORDINATOR BIDANG KEMARITIMAN  DAN INVESTASI  
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+MENTERI KOORDINATOR BIDANG KEMARITIMAN  DAN INVESTASI  
+REPUBLIK INDONESIA , 
+Menimbang  : a.bahwa untuk memberikan kepastian hukum dalam
+penyelenggaraan dan guna  mewujudkan pengelolaan
+kearsipan yang efektif dan efisien, menjamin keamanan dan
+perlindungan terhadap arsip, serta mencegah terjadinya
+penyalahgunaan arsip oleh pihak yang tidak berhak, perlu
+menyusun sistem klasifikasi keamanan dan akses arsip
+dinamis;
+b.bahwa untuk melaksanakan ketentuan Pasal 32 ayat ( 3)
+Peraturan Pemerintah Nomor 28 Tahun 2012 tentang
+Pelaksana an Undang -Undang Nomor 43 Tahun 2009
+tentang Kearsipan , Menteri Koordinator Bidang
+Kemaritiman  dan Investasi  perlu membentuk  Peraturan
+Menteri Koordinator bidang Kemaritiman  dan Investasi
+mengenai sistem klasifikasi keamanan dan akses arsip
+dinamis Kementerian Koordinator Bidang Kemaritiman  dan
+Investasi ;
+jdih.maritim.go.id-2-
+c.bahwa  Peraturan Menteri Koordinator Bidang Kemaritiman
+Nomor 11 Tahun 2018 tentang Sistem Klasifikasi
+Keamanan dan Akses Arsip Dinamis Kementerian
+Koordinator Bidang Kemaritiman sudah tidak sesuai lagi
+dengan perkembangan kebutuhan di Kementerian
+Koordinator Bi dang Kemaritiman dan Investasi sehingga
+perlu diganti;
+d.bahwa berdasarkan pertimbangan sebagaimana dimaksud
+dalam huruf a, huruf b, dan huruf c, perlu menetapkan
+Peraturan Menteri Koordinator Bidang Kemaritiman dan
+Investasi tentang Sistem Klasifikasi Keamanan dan Akses
+Arsip Dinamis Kementerian Koordinator Bidang
+Kemaritiman dan Investasi;
+Mengingat  : 1.Pasal 17 ayat (3) Undang -Undang Dasar Negara Republik
+Indonesia Tahun 1945;
+2.Undang -Undang Nomor 39 Tahun 2008 tentang
+Kementerian Negara (Lemba ran Negara Republik  Indonesia
+Tahun 2008 Nomor 166, Tambahan  Lembaran Negara
+Republik Indonesia Nomor 4916);
+3.Undang -Undang Nomor 43 Tahun 2009  tentang  Kearsipan
+(Lembaga Negara Republik Indonesia Tahun 2009 Nomor
+152, Tambahan Lembaran Negara Republik Indonesia
+Nomor 5071);
+4.Peraturan Pemerintah Nomor 28 Tahun 2012 tentang
+Pelaksanaan Undang -Undang Nomor 43 Tahun 2009
+tentang Kearsipan (Lembaran Negara Republik Indonesia
+Tahun 2012 Nomor 53, Tambahan Lembaran Negara
+Republik Indonesia Nomo r 5286);
+5.Peraturan Presiden Nomor 92  Tahun  2019 tentang
+Kementerian Koordinator Bidang Kemaritiman  dan
+Investasi (Lembaran Negara Republik Indonesia Tahun
+2019 Nomor 265);
+6.Peraturan Menteri Koordinator Bidang Kemaritiman dan
+Investasi Nomor 10 Tahun 2020 tentang Organisasi dan
+Tata Kerja Kementerian Koordinator Bidang Kemaritiman
+jdih.maritim.go.id-3-
+dan Investasi (Berita Negara Republik Indonesia Tahun 
+2020 Nomor 1331 ); 
+MEMUTUSKAN:  
+Menetapkan   :  PERATURAN MENTERI KOORDINATOR BIDANG 
+KEMARITIMAN DAN INVESTASI TENTANG SISTEM  
+KLASIFIKASI KEAMANAN DAN AKSES ARSIP DINAMIS  
+KEMENTERIAN KOORDINATOR BIDANG KEMARITIMAN  DAN 
+INVESTASI . 
+BAB I  
+KETENTUAN UMUM  
+Pasal 1  
+Dalam Peraturan Menteri Koordinator ini yang dimaksud 
+dengan:  
+1.Kearsipan adalah hal -hal yang berkenaan dengan arsip.
+2.Arsip adalah rekaman kegiatan atau peristiwa dalam
+berbagai bentuk  dan media sesuai dengan perkembangan
+teknologi informasi dan  komunikasi yang dibuat dan
+diterima oleh lembaga negara,  pemerintah daerah, lembaga
+pendidikan, perusahaan, organisasi  politik, organisasi
+kemasyarakatan, dan perseorangan dalam  pelaksanaan
+kehidupan bermasyarakat, berbangsa, dan bernegara.
+3.Arsip Dinamis adalah arsip yang digunakan secara
+langsung dalam  kegiatan pencipta arsip dan disimpan
+selama jangka waktu tertentu.
+4.Akses Arsip adalah ketersediaan arsip sebagai hasil dari
+kewenangan hukum dan otorisasi legal serta keberadaan
+sarana bantu untuk mempermudah penemuan dan
+pemanfaatan arsip.
+5.Klasifikasi Keamanan Arsip Dinamis adalah
+pengategorian/penggolongan Arsip Dinamis berdasarkan
+pada tingkat keseriusan dampak yang ditimbulkan
+terhadap kepentingan dan keamanan negara, publik  dan
+perorangan.
+jdih.maritim.go.id-4-
+6.Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis
+adalah sistem pengelolaan Klasifikasi Keamanan Arsip
+Dinamis, Klasifikasi Akses Arsip Dinamis dan Pengamanan
+Arsip Dinamis di Kementerian Koordinator  Bidang
+Kemaritiman  dan Investasi .
+7.Pengamanan Arsip Dinamis adalah program perlindungan
+fisik dan informasi Arsip Dinamis berdasarkan Klasifikasi
+Keamanan Arsip Dinamis.
+8.Informasi yang Dikecualikan adalah informasi yang tidak
+dapat diakses oleh publik sebagaimana diatur dalam
+peraturan perundang -undangan di bidang k eterbukaan
+informasi publik.
+9.Biasa adalah klasifikasi informasi dari Arsip yang memiliki
+informasi yang apabila diketahui oleh publik tidak
+merugikan siapapun.
+10.Terbatas adalah klasifikasi informasi dari Arsip yang
+memiliki informasi apabila diketahui oleh pihak yang tidak
+berhak dapat  mengakibatkan terganggunya pelaksanaan
+tugas dan fungsi Kementerian Koordinator Bidang
+Kemaritiman  dan Investasi .
+11.Rahasia adalah klasifikasi informasi  dari Arsip yang apabila
+diketahui oleh pihak yang tidak berhak dapat
+mengakibatkan terganggunya fungsi penyelenggaraan
+negara, sumber daya na sional dan/atau ketertiban umum.
+12.Menteri Koordinator adalah Menteri Koordinator Bidang
+Kemaritiman  dan Investasi .
+13.Kementerian Koordinator adalah Kementerian Koordinator
+Bidang Kemaritiman dan Invest asi.
+14.Unit Pengolah adalah unit kerja pada Pencipta Arsip yang
+mempunyai tugas dan tanggung jawab mengolah semua
+Arsip yang berkaitan dengan kegiatan penciptaan Arsip di
+lingkungannya.
+15.Unit Kearsipan adalah unit kerja pada Pencipta Arsip yang
+mempunyai tugas dan tanggung jawab dalam
+penyelenggaraan Kearsipan.
+jdih.maritim.go.id-5-
+16.Arsiparis adalah seseorang yang memiliki kompetensi di
+bidang kearsipan yang diperoleh melalui pendidikan formal
+dan/atau pendidikan dan pelatihan kearsipan serta
+mempunyai fungsi, tugas, dan tanggung jawab
+melaksanakan kegiatan Kearsipan.
+17.Pejabat Administ rasi adalah Pegawai  Aparatur Sipil Negara
+yang menduduki Jabatan Administrasi pada instansi
+pemerintah.
+18.Publik adalah warga negara atau badan hukum yang
+mengajukan permohonan untuk mengakses Arsip Dinamis.
+Pasal 2 
+(1)Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis
+dimaksudkan untuk:
+a.menjadi acuan pelaksanaan dalam pengelolaan Arsip
+Dinamis di lingkungan Kementerian Koordinator ;
+b.memberikan pedoman kepada Pejabat Fungsional
+Arsiparis di Unit Pengolah dan di Unit Kerja dalam:
+1.melakukan pemberkasan A rsip Dinamis secara
+tertib;
+2.mengamankan Arsip Dinamis berdasarkan
+kewenangan akses terhadap klasifikasi informasi
+Arsip yang telah ditetapkan;
+3.melindungi fisik dan informasi Arsip dari kerusakan
+dan kehilangan sehingga ketersediaan, keterbacaan,
+keutuhan, otentisitas, dan realibilitas Arsip dapat
+terjaga; dan
+4.melindungi Arsip dari pengaksesan yang tidak sesuai
+dengan kewenangan sehingga dapat mencegah
+terjadinya penyalahgunaan Arsip oleh pihak yang
+tidak berwenang atau untuk tujuan dan kepentingan
+yang tidak sah.
+jdih.maritim.go.id-6-
+(2)Sistem Klasifikasi Keamanan dan Akses Arsip Dinamis
+bertujuan untuk:
+a.menyediakan layanan informasi Arsip Dinamis kepada
+Publik dengan prinsip cepat, tepat, murah, dan aman;
+b.menyediakan informasi yang dikategorikan terbuka da n
+dapat diakses oleh Publik; dan
+c.menjamin keamanan Arsip bagi Informasi yang
+Dikecualikan.
+BAB II  
+KLASIFIKASI KEAMANAN  
+Pasal 3 
+Klasifikasi Keamanan Arsip Dinamis diklasifikasikan menjadi 3 
+(tiga) tingkat  yang terdiri atas : 
+a.Biasa;
+b.Terbatas;  atau
+c.Rahasia .
+Pasal 4 
+(1)Klasifikasi Keamanan Arsip Dinamis pada tingkat Biasa
+sebagaimana dimaksud dalam Pasal 3 huruf a didasarkan
+pertimbangan apabila diketahui oleh Publik tidak memiliki
+dampak yang dapat mengganggu kinerja  satuan organisas i.
+(2)Klasifikasi Keamanan Arsip Dinamis pada tingkat Terbatas
+sebagaimana dimaksud dalam Pasal 3 huruf b didasarkan
+pertimbangan apabila diketahui oleh Publik yang tidak
+berhak dapat mengakibatkan terganggunya  pelaksanaan
+tugas dan fungsi satuan organisasi.
+(3)Klasifikasi Keamanan Arsip Dinamis pada tingkat Rahasia
+sebagaimana dimaksud dalam Pasal 3 huruf c didasarkan
+pertimbangkan apabila diketahui oleh pihak yang tidak
+berhak  dapat mengakibatkan terganggun ya fungsi
+penyelenggaraan negara, sumber daya nasional, da n/atau
+ketertiban umum .
+jdih.maritim.go.id-7-
+BAB III  
+PENENTUAN HAK AKSES ARSIP DINAMIS  
+Pasal 5 
+(1)Hak akses Arsip Dinamis untuk Publik terhadap Kasifikasi
+Keamanan Arsip Dinamis pada tingkat Biasa sebagaimana
+dimaksud dalam Pasal 3 huruf a bersifat terbuka.
+(2)Hak akses untuk Publik terhadap Klasifikasi Keamanan
+Arsip Dinamis pada tingkat Terbatas  dan Rahah sia
+sebagaimana dimaksud dala m Pasal 3 huruf b  dan  huruf
+c bersifat tertutup.
+Pasal 6 
+Arsip Dinamis dapat diakses oleh Pengguna Internal dan 
+Pengguna Eksternal.  
+Pasal 7 
+(1)Pengguna Internal se bagaimana dimaksud dalam Pasal 6,
+meliputi:
+a.Menteri Koordinator;
+b.Pejabat Pimpinan Tinggi Madya;
+c.Pejabat Pimpinan Tinggi Pratama;
+d.Staf Khusus Menteri Koordinator;
+e.Pejabat Administrator, Pejabat Pengawas, Pejabat
+Fungsional, Pejabat Pelaksana , dan staf ; dan
+f.Pengawas Internal.
+(2)Menteri Koordinator sebagaimana dimaksud pada ayat (1)
+huruf a berwenang mengakses seluruh Arsip.
+(3)Pejabat Pimpinan Tinggi Madya sebagaimana dimaksud
+pada ayat (1) huruf b berwenang mengakses seluruh Arsip
+di bawah kewenangannya dan diberikan akses untuk
+informasi yang terdapat pada level tertinggi dengan i zin
+pimpinan tingkat tertinggi.
+jdih.maritim.go.id-8-
+(4)Pejabat Pimpinan Tinggi Pratama sebagaimana dimaksud
+pada ayat (1) huruf c, berwenang mengakses Arsip di
+bawah kewenangannya, namun tidak diberikan hak akses
+untuk informasi yang terdapat pada Menteri Koordinator
+dan Pimpinan Tinggi Madya, kecuali telah mendapatkan
+izin.
+(5)Pejabat Administrator, Pejabat Pengawas, Pejabat
+Fungsional, Pejabat Pelaksana, dan staf sebagaimana
+dimaksud pada ayat (1) huruf d berwenang mengakses
+seluruh Arsip yang berada pada tanggung jaw ab, tugas
+dan kewenangannya, dengan tingkat klasifikasi Biasa.
+(6)Pengawas Internal sebagaimana dimaksud pada ayat (1)
+huruf e berwenang mengakses seluruh Arsip dalam rangka
+melaksanakan fungsi pengawasan internal sesuai dengan
+ketentuan peraturan perund ang-undangan.
+Pasal 8 
+(1)Pengguna Eksternal sebagaimana dimaksud dalam Pasal
+6, meliputi:
+a.pengawas eksternal;
+b.aparat penegak hukum; dan
+c.Publik.
+(2)Pengawas Eksternal sebagaimana dimaksud pada ayat (1)
+huruf a berwenang mengakses seluruh Arsip dalam
+rangka melaksanakan fungsi pengawasan sesuai dengan
+ketentuan peraturan perundang -undangan.
+(3)Aparat penegak hukum sebagaimana dimaksud pada ayat
+(1) huruf b berwenang mengakses Arsip yang terkait
+dengan perkara atau proses hukum yang  sedang 
+ditanganinya dalam rangka melaksanakan fungsi 
+penegakan hukum.  
+(4)Publik sebagaimana dimaksud pada ayat (1) huruf c dapat
+mengakses Arsip yang dikategorikan Biasa sesuai dengan
+ketentuan peraturan perundang -undangan.
+jdih.maritim.go.id-9-
+Pasal 9 
+Daftar klasifikasi  keamanan dan hak akses  arsip  dinamis 
+sebagaimana dimaksud dalam Pasal 3 sampai dengan Pasal 8 
+sebagaimana tercantum dalam Lampiran I, II dan III yang 
+merupakan bagian  tidak terpisahkan dari Peraturan Menteri 
+Koordinator ini . 
+BAB IV  
+PENGAMANAN FISIK DAN INFORMASI ARSIP  
+Pasal 1 0 
+(1)Pengamanan Arsip Dinamis didukung dengan sarana dan
+prasarana untuk pemeliharaan Arsip dan pengamanan
+Arsip.
+(2)Sarana dan prasarana sebagaimana dimaksud pada ayat
+(1), meliputi:
+a. sarana penyimpanan Arsip Konvensional, berupa:
+1.lemari Arsip untuk menyimpan Arsip Biasa dan
+Terbatas;
+2.brankas/lemari besi untuk menyimpan Arsip
+Rahasia ;
+b.sarana penyimpanan Arsip media b aru, berupa lemari
+Arsip sesuai dengan tingkat klasifikasi informasi; dan
+c.prasarana, berupa ruang penyimpanan yang 
+representatif sesuai dengan tingkat klasifikasi 
+informasi.
+(3)Ruang penyimpanan sebagaimana dimaksud pada ayat (2)
+huruf c dilengkapi dengan pengamanan berupa kamera
+pengawas, kunci pengamanan ruangan, tabung pemadam
+kebakaran, dan/atau media simpan Arsip berbasis
+elektronik maupun non -elektronik.
+jdih.maritim.go.id-10-
+Pasal 11 
+(1)Pengamanan Arsip Dinamis sebagaimana dimaksud dalam
+Pasal 10 dikoordinasikan oleh Unit Kearsipan.
+(2)Pengamanan Arsip Dinamis dilakukan oleh Pejabat
+Fungsional Arsiparis di Unit Pengolah dan di Unit
+Kearsipan.
+(3)Dalam hal belum tersedia Pejabat Fungsio nal Arsiparis di
+Unit Pengolah dan di Unit Kearsipan, Pejabat Pimpinan
+Tinggi Pratama dapat menugaskan Pejabat Administrasi
+untuk melaksanakan tugas Pengamanan Arsip Dinamis
+sebagai pelaksana Arsip.
+BAB V  
+KETENTUAN PENUTUP  
+Pasal 1 2 
+Pada saat Peraturan Menteri Koordinator ini mulai  berlaku , 
+Peraturan Menteri Koordinator Bidang Kemaritiman Nomor 11 
+Tahun 2018 tentang Sistem Klasifikasi Keamanan dan Akses 
+Arsip Dinamis Kementerian Koordinator Bidang Kemaritiman 
+(Berita Negara Republik Indonesia Tahun 2018 Nomor 1422) , 
+dicabut dan dinyatakan tidak berlaku.  
+Pasal 13 
+Peraturan Menteri Koordinator ini mulai berlaku pada tanggal 
+diundangkan.  
+jdih.maritim.go.id-11-
+Agar setiap orang mengetahuinya,  memerintahkan 
+pengundangan Peraturan Menteri Koordinator ini dengan 
+penempatannya dalam Berita Negara Republik Indonesia.  
+Ditetapkan di Jakarta  
+pada tanggal  10 Maret 2022  
+MENTERI KOORDINATOR BIDANG  KEMARITIMAN 
+DAN INVESTASI REPUBLIK INDONESIA,  
+  Ttd 
+LUHUT B. PANDJAITAN  
+Diundangkan di Jakarta  
+pada tanggal 14 Maret 2022  
+DIREKTUR JENDERAL  
+PERATURAN PERUNDANG -UNDANGAN  
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA  
+REPUBLIK INDONESIA,  
+Ttd   
+BENNY  RIYANTO  
+BERITA NEGARA REPUBLIK INDONESIA TAHUN  2022 NOMOR  275 
+jdih.maritim.go.idSalinan sesuai dengan aslinya
+KEMENTERIAN KOORDINATOR BIDANG KEMARITIMAN DAN INVESTASI RI
+Kepala Biro Hukum,4 5 6 7 8
+I KP KEPEGAWAIAN
+1 00
+00 Data Pegawai Hasil Pengklasifikasian
+01 Kajian Data Pegawai
+02 Konsep Data Bezzeting
+03 Evaluasi Proses Penyusunan Data Bezzeting
+04 Hasil dan Laporan Data Bezzeting
+2 01 Formasi Pegawai
+00
+01
+02
+03
+04
+3 02 Pengadaan Pegawai
+00
+1Pengumuman
+2Seleksi Administrasi
+3Pemanggilan Peserta Tes
+4Pelaksanaan Ujian Tertulis
+5Keputusan Hasil Ujian
+6Wawancara
+7Pengumuman KelulusanLAMPIRAN  I
+PERATURAN MENTERI KOORDINATOR  BIDANG KEMARITIMAN DAN 
+INVESTASI NOMOR  1  TAHUN 2022 TENTANG SISTEM KLASIFIKASI 
+KEAMANAN DAN AKSES ARSIP DINAMIS KEMENTERIAN KOORDINATOR 
+BIDANG KEMARITIMAN DAN INVESTASI
+SISTEM KLASIFIKASI KEAMANAN DAN AKSES ARSIP DINAMIS FASILITATIF
+KEMENTERIAN KOORDINATOR BIDANG KEMARITIMAN DAN INVESTASI
+1 2 3
+Bezetting /Persediaan Pegawai
+Usulan Formasi dari Unit Kerja
+Usulan Formasi kepada Menteri Pendayagunaan Aparatur Negara
+dan Reformasi Birokrasi (Menpan RB) dan Kepala Badan
+Kepegawaian Negara (BKN)KLASIFIKASI 
+KEAMANAN
+Biasa
+BiasaHAK AKSES 
+UNTUK 
+PUBLIK
+Terbuka
+TerbukaHAK AKSES
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Persetujuan Formasi dari Menteri Pendayagunaan Aparatur
+Negara dan Reformasi Birokrasi (Menpan RB)
+Penetapan Formasi Aparatur Sipil Negara (ASN)
+Penetapan Formasi Khusus
+Proses Penerimaan Pegawai meliputi: Biasa Terbuka Pejabat pengawas/sub 
+koordinatorDASAR PERTIMBANGAN
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiUNIT 
+PENGOLAH
+Biro Umum
+Biro Umum
+Biro UmumNOKODE
+KLASIFIKASIJENIS ARSIP
+jdih.maritim.go.id-2-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+01
+02
+03
+04
+05
+4 03 Seleksi Terbuka Jabatan Pimpinan Tertinggi Terbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama    Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+5 04 Pembinaan Karir Pegawai
+00 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama    Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+01
+02
+03 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama   Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+04 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro UmumBerkas Lamaran yang Tidak Diterima
+Nota Usul dan Kelengkapan Penetapan Nomor Induk Pegawai
+(NIP)
+Nota Usul Pengangkatan Calon Pegawai Negeri Sipil
+(CPNS)/Calon Aparatur Sipil Negara (CASN) menjadi Pegawai
+Negeri Sipil (PNS)/Aparatur Sipil Negara (ASN) 
+Surat Keputusan Calon Pegawai Negeri Sipil (CPNS)/Calon
+Aparatur Sipil Negara (CASN) menjadi Pegawai Negeri Sipil
+(PNS)/Aparatur Sipil Negara (ASN) kolektif
+Prajabatan
+Penilaian Prestasi Kerja (DUPAK,PAK)
+Sasaran Kerja Pegawai (SKP)
+Pakta Integritas Pegawai
+Laporan Hasil Kekayaan Penyelenggara Negara (LHKPN)/Laporan
+Harta Kekayaan Aparatur Sipil Negara (LHKASN)
+Pembinaan MentalBiasa
+Terbatas
+Biasa
+BiasaTerbuka
+Tertutup
+Terbuka
+TerbukaPejabat pengawas/sub
+koordinator
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+Biro Umum
+Biro Umum
+Biro Umum
+jdih.maritim.go.id-3-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+05 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama   Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+06 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama  Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+07 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+6 05 Ujian Kenaikan Pangkat atau Jabatan
+00
+01
+7 06 Ujian Kompetensi
+00 Assesment Test Pegawai
+01 Pemetaan/ Talent Mapping Pegawai
+8 07 Penyelesaian Pengelolaan Keberatan Pegawai Terbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama   Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro UmumDisiplin Pegawai
+Hukuman Disiplin
+Penghargaan dan Tanda Jasa
+Ujian Penyesuaian Ijazah
+Ujian DinasBiasa
+BiasaTerbuka
+TerbukaPejabat pengawas/sub 
+koordinator
+Pejabat Pimpinan Tinggi 
+Pratama   Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+Biro Umum
+jdih.maritim.go.id-4-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+9 08 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama   Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+10 09 Mutasi Pegawai
+00
+01
+02
+03
+04 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+05 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+06
+07
+08
+09
+10
+1Surat Izin Pernikahan/Perceraian
+2Surat Penolakan Izin Pernikahan/Perceraian
+3Surat Nikah/Cerai
+4Akte Kelahiran Anak
+5Surat Keterangan Meninggal DuniaPenetapan Perubahan Data Dasar/Status/Kedudukan Hukum 
+Pegawai
+Kenaikan Pangkat/Golongan/Jabatan Struktural dan Fungsional
+Pengangkatan dalam Jabatan Struktural/Fungsional
+Pemberhentian dalam Jabatan Struktural/Fungsional
+Alih Jabatan dan Perpindahan Jabatan
+Kenaikan Gaji Berkala
+Alih Status, Pindah Instansi, Pindah Wilayah Kerja,
+Dipekerjakan, Penugasan Sementara, Mutasi Antar Unit Kerja
+Rotasi Kerja
+Penyesuaian/Peninjauan Masa Kerja
+Penyesuaian Tunjangan Keluarga
+Penyesuaian Kelas Jabatan
+Mutasi KeluargaTerbatas
+Biasa
+TerbatasTertutup
+Terbuka
+TertutupPejabat Pimpinan Tinggi 
+Pratama   
+Pejabat pengawas/sub 
+koordinator
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+Biro Umum
+Biro Umum
+jdih.maritim.go.id-5-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+11 10 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama   Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+12 11 Pendelegasian Wewenang
+00 Pelaksana Tugas (Plt)
+01 Pelaksana Harian (Plh)
+13 12 Pendidikan dan Pelatihan Pegawai
+00
+01
+02
+03
+04
+05
+14 13 Administrasi Pegawai
+00
+01
+02
+03
+04
+05
+06
+07
+08
+09
+15 14 Cuti Pegawai
+00
+01
+02
+03
+04
+05Berkas Tim Penilai Kinerja Pegawai (TPKP)/Badan Pertimbangan 
+Jabatan dan Pangkat (Baperjakat).
+Tugas Belajar
+Izin Belajar
+Pendidikan dan Pelatihan Perjenjangan
+Kursus/Diklat Fungsional
+Kursus/Diklat Teknis
+Orientasi Calon Pegawai Negeri Sipil (CPNS)/Calon Aparatur Sipil
+Negara (CASN)
+Data Pegawai
+Kartu Pegawai
+Kartu Istri (KARIS)/Kartu Suami (KARSU)
+Kartu Tabungan dan Asuransi Pegawai Negeri (TASPEN)
+Kartu Keanggotaan Organisasi Profesi/Kedinasan
+Kartu Jaminan Kesehatan
+Keterangan Penerimaan Pembayaran Penghasilan Pegawai (KP4)
+Laporan Pajak Penghasilan Pribadi (LP2P)/SPT Tahunan/NPWP
+Tunjangan Kinerja dan Uang Makan
+Daftar Urut Kepangkatan (DUK)
+Cuti Besar
+Cuti Tahunan
+Cuti Sakit
+Cuti Bersalin
+Cuti Alasan Penting
+Cuti Diluar Tanggungan  Negara (CLTN)Biasa
+Biasa
+Terbatas
+BiasaTerbuka
+Terbuka
+Tertutup
+TerbukaPejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+Biro Umum
+Biro Umum
+Biro Umum
+jdih.maritim.go.id-6-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+16 15 Kesejahteraan Pegawai
+00
+01
+02
+03
+04
+05
+17 16 Pemberhentian Pegawai 
+00  Pemberhentian dengan Hormat
+01  Pemberhentian dengan Tidak Hormat
+18 17 Perselisihan/Sengketa Kepegawaian Rahasia Tertutup Pejabat Pimpinan Tinggi 
+PratamaMenimbulkan kerugian yang 
+serius terhadap privacy , 
+keuntungan kompetitif, 
+hilangnya kepercayaan, serta 
+merusak kemitraan dan 
+reputasiBiro Umum
+19 18 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+20 19 Organisasi Non Kedinasan
+00
+01
+02
+03
+04Layanan Pemeliharaan Kesehatan Pegawai
+Layanan Asuransi Pegawai
+Layanan Tabungan Perumahan (Taperum)
+Layanan Bantuan Sosial
+Layanan Pakaian Dinas
+Layanan Pengurusan Jenazah
+Pengangkatan dan Pemberhentian Pegawai Non Pegawai Negeri Sipil 
+(PNS)/Pegawai Pemerintah Dengan Perjanjian Kerja (PPPK)
+KORPRI
+Dharma Wanita
+Koperasi
+Yayasan
+AsosiasiBiasa
+Terbatas
+BiasaTerbuka
+Tertutup
+TerbukaPejabat pengawas/sub 
+koordinator
+Pejabat Pimpinan Tinggi 
+Pratama   
+Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+Biro Umum
+Biro Umum
+jdih.maritim.go.id-7-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+21 20 Berkas Perseorangan Pegawai 
+00
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27Akta Nikah/cerai
+28Akta Kelahiran
+29Isian Formulir PUASN
+30
+31Surat Permohonan Netralitas ASNBerkas Perseorangan  Pegawai Negeri Sipil (PNS)/Aparatur Sipil Negara (ASN)
+Berkas lamaran CASN yang diterima
+Nota Penetapan NIP dan Kelengkapannya
+Nota Persetujuan/Pertimbangan kepala BKN
+SK Pengangkatan CASN
+Hasil Pengujian Kesehatan
+SK Pengangkatan ASN
+SK Peninjauan masa kerja
+SK Kenaikan Pangkat
+Surat Pernyataan Melaksanakan Tugas/Menduduki Jabatan 
+dan Surat Pernyataan Pelantikan
+SK Pengangkatan dalam atau pemberhentian dari jabatan 
+Struktural/Fugsional
+SK Perpindahan Wilayah Kerja
+SK Perpindahan Antar Instansi
+SK Cuti di Luar Tanggungan Negara (CTLN)
+Berita Acara Pemeriksaan
+SK Hukuman Jabatan/Hukuman Disiplin ASN
+SK Perbantuan/Dipekerjakan di Luar Instansi Induk
+SK Penarikan Kembali dari Perbantuan/Dipekerjakan
+SK Pemberian Uang Tunggu
+SK Pembebasan dari Jabatan organik karena diangkat 
+sebagai Pejabat Negara
+SK Pengalihan ASN
+SK Pemberhentian sebagai ASN
+SK pemberhentian sementara (sebagai CASN, ASN, Jabatan 
+Struktural, Jabatan Fungsional)
+Surat Pernyataan Hilang
+Surat Keterangan kembalinya ASN yang dinyatakan hilang
+SK Penggantian nama
+Surat Perbaikan tanggal Tahun kelahiran
+Berita Acara Pengambilan Sumpah/Janji ASN dan JabatanRahasia Tertutup Pejabat Pimpinan Tinggi 
+Pratamamenimbulkan kerugian yang 
+serius terhadap privacy , 
+keuntungan kompetitif, 
+hilangnya kepercayaan, serta 
+merusak kemitraan dan 
+reputasiBiro Umum
+jdih.maritim.go.id-8-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+32Surat Keterangan Mutasi Keluarga
+33Surat Keterangan Meninggal Dunia
+34Surat Keterangan Peningkatan Pendidikan
+35Penetapan Angka Kredit Jabatan Fungsional
+36Surat Keterangan Hasil Penelitian Khusus
+37Surat Pemberitahuan Kenaikan Gaji Berkala
+38Surat Tugas/Izin Belajar Dalam/Luar Negeri
+39Surat Izin Bepergian ke Luar Negeri
+40Ijazah/Sertifikat
+41SK Penempatan/Penarikan Pegawai
+42SK Pengangkatan pada Jabatan di Luar Instansi Induk
+43
+44
+45
+46
+01 Rahasia Tertutup Pejabat Pimpinan Tinggi 
+Pratamamenimbulkan kerugian yang 
+serius terhadap privacy , 
+keuntungan kompetitif, 
+hilangnya kepercayaan, serta 
+merusak kemitraan dan 
+reputasiBiro Umum
+II KU
+1 00
+00
+01
+1
+2
+3
+4
+5
+6Surat Pertimbangan Status ASN
+surat Pengaktifan Kembali sebagai ASN
+Surat Pernyataan Pengunduran Diri dari Jabatan Organik 
+karena dicalonkan sebagai Kepala/Wakil Kepala Daerah
+SK Pensiun
+Berkas Perseorangan Non ASN/Pegawai Pemerintah dengan
+Perjanjian Kerja (PPPK)
+KEUANGAN
+Pelaksanaan Anggaran
+Ketentuan/peraturan terkait pelaksanaan/penatausahaan dan
+pertanggungjawaban anggaran
+Dokumen Realisasi Pendapatan
+Surat Setoran Pajak (SSP)
+Surat Setoran Bukan Pajak (SSBP) atau buku penerimaan, 
+bukti setor penerimaan Negara Bukan Pajak (PNBP)
+Bukti setor sisa anggaran lebih atau bukti setor 
+pengembalian anggaran
+Bukti setor bunga dan atau jasa giro bank
+Laporan realisasi pendapatan negara dari masing-masing 
+unit/satuan kerja
+Berkas kelebihan pembayaran gaji atau tunjangan kinerjaRahasia
+BiasaTertutup
+TerbukaPejabat Pimpinan Tinggi 
+Pratama
+Pejabat pengawas/sub 
+koordinatormenimbulkan kerugian yang 
+serius terhadap privacy , 
+keuntungan kompetitif,
+hilangnya kepercayaan, serta
+merusak kemitraan dan 
+reputasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+Biro Umum
+jdih.maritim.go.id-9-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+02
+1
+2
+3
+4
+5
+6
+7
+03
+1
+2
+3
+4
+5
+2 01 Pengelolaan Perbendaharaan
+00
+01
+02
+03
+04
+05
+3 02 Verifikasi Anggaran Terbatas Tertutup Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro UmumBelanja
+Rencana Anggaran Biaya (RAB)
+Dokumen Belanja Pegawai (Daftar 
+gaji/tunjangan/lembur/honorarium)
+Dokumen Belanja Modal (Belanja Barang Inventaris/Barang 
+Bergerak)
+Dokumen Belanja Modal (Belanja barang inventaris/Tanah 
+dan bangunan)
+Dokumen Belanja Barang Habis Pakai
+Dokumen Pengeluaran Anggaran
+Dokumen Belanja Jasa
+Dokumen Pembayaran Keuangan
+Pengajuan kebutuhan penarikan kas
+Bukti tagihan dari pihak ketiga
+Surat permintaan pembayaran dan lampirannya (LS, UP, 
+TUP, GUP, dan GTUP)
+Surat Perintah Membayar (LS, UP, TUP, TUP Nihil, GPU Nihil, 
+GUP, dan GTUP)
+Surat Perintah Pencairan Dana (SP2D)
+Laporan Pertanggungjawaban (LPJ)
+Kartu Pengawasan Kredit
+Berita Acara Pemeriksaan Kas
+Tuntutan Ganti Rugi
+Pembukuan Anggaran/Buku Kas Umum (BKU)/Buku Kas
+Pembantu (BKP)
+Kartu GajiBiasa
+Terbatas
+TerbatasTerbuka
+Tertutup
+TertutupPejabat pengawas/sub
+koordinator
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaTidak memiliki dampak yang 
+dapat mengganggu kinerja
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+Biro Umum
+Biro Umum
+jdih.maritim.go.id-10-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+4 03 Dokumentasi Akuntansi Keuangan
+00
+01
+02
+5 04 Laporan Keuangan Tahunan
+00
+01
+02
+03
+04
+6 05 Ketatausahaan Keuangan
+00  Keterangan Penghasilan
+01  Surat Keterangan Pemberhentian Pembayaran (SKPP)
+02  Permohonan Pinjaman
+03  Iuran Keanggotaan Organisasi
+7 06 Bantuan/Pinjaman Luar Negeri
+00
+01
+02
+03
+04
+05
+06
+07
+08
+09Berita Acara Pemeriksaan Kas
+Kas/Register Penutupan Kas
+Berita Acara Rekonsiliasi antar satuan kerja dan KPPN
+Laporan Arus Kas
+Laporan Perkembangan Realisasi Penerimaan, Realisasi Belanja
+Pegawai, Belanja Barang dan Belanja Modal/LaporanRealisasi
+anggaran (LRA)
+Catatan atas Laporan Keuangan  (CaLK)
+Laporan Realisasi pendapatan Negara
+Laporan Barang Milik Negara (BMN)
+Permohonan Pinjaman Luar Negeri/daftar proyek yang dibiayai
+dari pinjaman luar negeri ( Blue Book )
+Dokumen Kesanggupan Negara Donor Untuk Membiayai (Grey 
+Book )
+Dokumen Momerandum ofUnderstanding (MoU) dan Dokumen
+Sejenisnya
+Dokumen Loan Agreement  Pinjaman/Hibah Luar Negeri (PHLN)
+Alokasi dan Relokasi Penggunaan Dana Luar Negeri
+Aplikasi Penarikan Dana Bantuan Luar Negeri (BLN)
+Otorisasi Penarikan Dana ( Payment Advice )
+Realisasi Pencairan Dana Bantuan Luar Negeri
+Replenishment (Permintaan Penarikan Dana dari Negeri Donor)
+Staff/Appraisal ReportTerbatas
+Terbatas
+Terbatas
+TerbatasTertutup
+Tertutup
+Tertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama 
+Pejabat Pimpinan Tinggi 
+Pratama   
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Umum
+Biro Umum
+Biro Umum
+Biro Umum
+jdih.maritim.go.id-11-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+10
+11
+12
+13
+8 07 Pengelolaan APBN/Dana Pinjaman/Hibah Luar Negeri (PHLN)
+00
+-
+-
+-
+-
+-
+-
+-
+9 08 Sistem Akuntansi Instansi (SAI)
+00
+01
+02
+10 09 Pertanggungjawaban Keuangan Negara
+00
+01
+02
+03 Dokumen Penyelesaian Kerugian Keuangan NegaraReport /Laporan: Progress Report, Monthly Report, Quartely Report
+Laporan Hutang Negara
+Completion Report/Annual Report
+Ketentuan/Peraturan yang Menyangkut Bantuan/Pinjaman Luar 
+Negeri
+Keputusan Menteri/Keputusan pengguna anggaran terkait 
+penetapan, termasuk berita acara serah terima jabatan
+Kuasa Pengguna Anggaran
+Kuasa Pengguna Barang/Jasa
+Pejabat Pembuat Komitmen
+Pejabat Pembuat Daftar Gaji
+Pejabat Penandatanganan SPM
+Bendahara Penerimaan/Pengeluaran
+Pengelola Barang
+Berita Acara Rekonsiliasi (BAR)
+Register Transaksi Harian (RTH), Dokumen Sumber (DS), Surat
+Tanda Setoran (STS), Surat Setoran Bukan Pajak (SSBP), Surat
+Setoran Pengembalian Belanja (SSPB), dan Surat Perintah
+Membayar (SPM)
+Laporan Realisasi Bulanan Sistem Akuntansi Instansi
+(SAI)/Triwulan/Semester
+Laporan Hasil Pemeriksaan atas Laporan Keuangan oleh Badan
+Pemeriksa Keuangan Republik Indonesia 
+Hasil Pengawasan dan Pemeriksaan Internal oleh Inspektorat
+Laporan Aparat Pemeriksa Fungsional
+Dokumen Penyelesaian Kerugian Keuangan NegaraTerbatas
+Terbatas
+Biasa
+RahasiaTertutup
+Tertutup
+Terbuka
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat pengawas/sub 
+koordinator
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat
+mengganggu pelaksanaan tugas
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Mengakibatkan terganggungnya 
+fungsi penyelenggaraan negara, 
+sumber daya nasional dan/atau 
+ketertiban umum serta 
+menimbulkan kerugian yang 
+serius terhadap privacy , 
+keuntungan kompetitif, 
+hilangnya kepercayaan, serta 
+merusak kemitraan dan 
+reputasiBiro Umum
+Biro Umum
+Biro Umum
+Biro Umum
+jdih.maritim.go.id-12-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+III PR PERENCANAAN
+1 00
+00
+01
+02
+03
+04
+05
+06
+07
+08
+2 01 Perencanaan Anggaran
+00
+01
+02
+03
+04
+05
+06
+07
+08
+09
+3 02
+00 Biro Perencanaan
+01
+02
+03
+04
+05
+06
+07Perencanaan Program
+Kebijakan dan Strategi Pembangunan
+Dokumen Rencana Pembangunan Jangka Panjang (RPJP)
+Dokumen Rencana Pembangunan Jangka Menengah (RPJM)
+Dokumen Rencana Strategis (Renstra) Kementerian Koordinator
+Bidang Kemaritiman dan Investasi 
+Dokumen Rencana Kerja Pemerintah (RKP)
+Dokumen Rencana Kerja (Renja) 
+Dokumen Penetapan/Kontrak Kinerja
+Dokumen Rencana Terpadu Program Kementerian Koordinator
+Bidang Kemaritiman dan Investasi Lintas Kementerian/Lembaga
+Dokumen Rencana Aksi Nasional (RAN)
+Kebijakan/Peraturan Penganggaran
+Dokumen Penyusunan Pagu Indikatif
+Dokumen Penyusunan Pagu Anggaran
+Dokumen Penyusunan Alokasi Anggaran
+Dokumen Revisi Anggaran
+Dokumen Usulan Anggaran Sebelum Pagu Indikatif (Inisiatif
+Baru)
+Dokumen Usulan Anggaran Sebelum Pagu Anggaran (Inisiatif
+Baru)
+Dokumen Usulan Anggaran Sebelum Alokasi Anggaran (Inisiatif
+Baru)
+Dokumen Usulan Standar Biaya Keluaran (SBK)
+Dokumen Usulan Tambahan Anggaran (ABT) pada Tahun
+Berjalan
+Laporan
+Laporan Berkala
+Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP)
+Laporan Insidental
+Penyiapan Bahan Nota Keuangan
+Laporan Monitoring dan Evaluasi Pengadaan 
+Laporan ke Kantor Staf Presiden (KSP)
+Laporan Pemantauan dan Evaluasi Pelaksanaan Program,
+Anggaran dan Kinerja
+Laporan Pemantauan Pelaksanaan Survei Indeks Resiko
+Kemaritiman dan InvestasiTerbatas
+Terbatas
+BiasaTertutup
+Tertutup
+TerbukaPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat pengawas/sub 
+koordinatorMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Perencanaan
+Biro Perencanaan
+jdih.maritim.go.id-13-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+08 Biro Komunikasi
+4 03 Evaluasi Program
+00
+01
+IV HK
+1 00 Program Legislasi
+00
+01
+2 01 Rancangan Peraturan Perundang-undangan
+00
+01
+02
+03
+04
+05
+06
+3 02
+00
+01Penyiapan Bahan Permintaan Data dari Instansi Lain (terkait
+dengan PPID)
+Evaluasi Program Unit Kerja
+Evaluasi Program Kementerian Koordinator Bidang Kemaritiman
+dan Investasi
+HUKUM
+Bahan/Materi Program Legislasi Nasional dari Instansi
+Program Legislasi terkait Kemaritiman dan Investasi
+Rancangan Undang-undang atau Rancangan Peraturan
+Pemerintah Pengganti Undang-Undang
+Rancangan Peraturan Pemerintah
+Rancangan Peraturan /Keputusan/Instruksi Presiden
+Peraturan Menteri Koordinator Bidang Kemaritiman dan Investasi
+Keputusan Menteri Koordinator Bidang Kemaritiman dan
+Investasi
+Instruksi/Surat Edaran
+Standar/Pedoman/Prosedur Kerja/Petunjuk Pelaksanaan/
+Petunjuk Teknis yang Bersifat Internasional/Nasional/Regional
+Nota Kesepahaman/ Memorandum of 
+Understanding(MoU)/ Kontrak/Perjanjian Kerjasama
+Dalam Negeri
+Luar NegeriBiasa
+Biasa
+Terbatas
+Terbatas
+TerbatasTerbuka
+Terbuka
+Tertutup
+Tertutup
+TertutupPejabat pengawas/sub
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaTidak memiliki dampak yang 
+dapat mengganggu kinerja
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Perencanaan
+Biro Hukum
+Biro Hukum
+Biro Hukum
+jdih.maritim.go.id-14-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+4 03
+00
+01
+02
+5 04 Kasus/Sengketa Hukum di Bidang Litigasi dan Non Litigasi
+00
+01
+02
+03
+6 05 Perizinan
+7 06 Hak Atas Kekayaan Intelektual
+00
+01
+02Dokumentasi Hukum
+Penyelenggaraan Jaringan Dokumentasi Informasi Hukum
+Sosialisasi/Penyuluhan/Pembinaan Hukum
+Bantuan/Konsultasi Hukum/Advokasi
+Pidana
+Perdata
+Tata Usaha Negara
+Non Litigasi
+Hak Cipta
+Hak Paten
+Hak MerkBiasa
+Rahasia
+Terbatas
+RahasiaTerbuka
+Tertutup
+Tertutup
+TertutupPejabat pengawas/sub 
+koordinator
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Mengakibatkan terganggungnya 
+fungsi penyelenggaraan negara, 
+sumber daya nasional dan/atau 
+ketertiban umum serta 
+menimbulkan kerugian yang 
+serius terhadap privacy, 
+keuntungan kompetitif, 
+hilangnya kepercayaan, serta 
+merusak kemitraan dan 
+reputasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Mengakibatkan terganggungnya 
+fungsi penyelenggaraan negara, 
+sumber daya nasional dan/atau 
+ketertiban umum serta 
+menimbulkan kerugian yang 
+serius terhadap privacy, 
+keuntungan kompetitif, 
+hilangnya kepercayaan, serta 
+merusak kemitraan dan 
+reputasiBiro Hukum
+Biro Hukum
+Biro Hukum
+Biro Hukum
+jdih.maritim.go.id-15-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+8 07 Telaah Hukum
+00  Telaah Hukum Internal
+01  Telaah Hukum Eksternal
+02  Telaah Perjanjian
+03  Telaah Akta
+9 08 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Hukum
+V OT ORGANISASI DAN TATA LAKSANA 
+1 00 Organisasi
+00
+01  Analisis Organisasi
+02  Evaluasi Organisasi
+2 01 Analisis Jabatan
+00
+01
+02
+3 02 Standar  Kompetensi
+00
+01
+4 03 Analisis Beban Kerja (ABK) Terbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro HukumPenghargaan Kelembagaan
+Struktur Organisasi Kementerian Koordinator Bidang
+Kemaritiman dan Investasi
+ Analisis Jabatan Struktural
+ Analisis Jabatan Fungsional 
+ Analisis Jabatan Pelaksana
+ Standar Kompetensi Jabatan Fungsional
+ Standar Kompetensi Jabatan StrukturalTerbatas
+Biasa
+Biasa
+TerbatasTertutup
+Terbuka
+Terbuka
+TertutupPejabat Pimpinan Tinggi 
+Pratama  
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Hukum
+Biro Hukum
+Biro Hukum
+Biro Hukum
+jdih.maritim.go.id-16-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+5 04 Tata Laksana
+00
+01
+02
+03
+04
+05
+VI KA PERSURATAN DAN KEARSIPAN
+1 00 Administrasi Persuratan
+00 Biro Umum
+01
+02
+03
+04
+2 01 Pengelolaan Arsip Dinamis
+00
+01
+3 02 Pemeliharaan dan Penggunaan Arsip
+00
+01
+4 03 Penyusutan Arsip
+00
+01
+02Penyusunan dan Penyelarasan Proses Bisnis
+Evaluasi Proses Bisnis
+Penyusunan dan Penyelenggaraan Standar Operasional Prosedur
+(SOP)
+Monitoring Evaluasi Standar Operasional Prosedur (SOP)
+Reformasi Birokrasi 
+Evaluasi Jabatan
+Kartu Kendali
+Buku Agenda
+Lembar Pengantar/Buku Expedisi/Formulir/Catatan Permintaan
+dan Layanan Penggandaan Dokumen/Arsip
+Pengurusan Surat Masuk
+Pengurusan Surat Keluar
+Penyusunan Sistem
+Pembinaan Kearsipan
+Penataan, Penyimpanan, Pemeliharaan
+Layanan Penggunaan/Peminjaman Arsip
+Pemindahan Arsip Inaktif
+Pemusnahan Arsip Yang Tidak Bernilai Guna
+Penyerahan Arsip StatisTerbatas
+Biasa
+Biasa
+Biasa
+TerbatasTertutup
+Terbuka
+Terbuka
+Terbuka
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro Hukum
+Biro Umum
+Biro Umum
+Biro Umum
+jdih.maritim.go.id-17-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+5 04 Monitoring dan Evaluasi  Sistem Kearsipan Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+VII RT KETATAUSAHAAN DAN KERUMAHTANGGAAN
+1 00 Layanan Penggunaan Fasilitas Kantor
+00
+01
+02
+03
+04
+05
+2 01 Perjalanan Dinas
+00
+01
+3 02 Ketertiban dan Keamanan
+00
+01
+VIII PL
+1 00
+00
+01
+02Fasilitas Kendaraan Dinas
+Fasilitas Gedung/Ruang Rapat/Konsumsi
+Pemakaian Telepon, Internet, Listrik, Air
+Administrasi Pemeliharaan Gedung dan Taman
+Administrasi Pengelolaan Sarana dan Prasarana Kantor 
+Administrasi Pengadaan Alih Daya
+Perjalanan Dinas Dalam Negeri
+Perjalanan Dinas Luar Negeri
+Pengamanan, Penjagaan, dan Pengawalan terhadap Pejabat,
+Kantor, dan Rumah Dinas
+Pemantauan dan Pelaporan Ketertiban dan Keamanan
+PERLENGKAPAN
+Perencanaan Pengadaan Barang dan Jasa
+Analisis Kebutuhan Unit Kerja
+Tata Ruang
+Daftar Rekanan Mampu (DRM)Biasa
+Biasa
+Biasa
+BiasaTerbuka
+Terbuka
+Terbuka
+TerbukaPejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+Biro Umum
+Biro Umum
+Biro Umum
+jdih.maritim.go.id-18-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+2 01
+00
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+3 02
+00
+01
+4 03
+00
+01
+02
+03
+04
+05
+5 04 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro UmumPelaksanaan Pengadaan Barang dan Jasa
+Barang Habis Pakai/Alat Tulis Kantor (ATK)
+Perlengkapan Kantor
+Tanah dan Bangunan
+Kendaraan
+Telaahan Pelaksanaan Lelang/ Pemilihan/Penunjukan Langsung
+Dokumen Lelang
+Pengelolaan Instalasi/Jaringan
+Peralatan Kearsipan
+Jasa Profesi
+Sewa
+Jasa Akomodasi
+Jasa Lainnya
+Penyimpanan Barang dan Distribusi
+Penyimpanan Inventaris Kekayaan Negara
+Pendistribusian
+Pengelolaan Barang Milik Negara (BMN)
+Pembukuan BMN
+Daftar Barang Ruangan
+Inventarisasi BMN
+Penghapusan BMN
+Pelaporan  BMN
+Sertifikasi BMN
+Pemeliharaan/Perawatan BMNBiasa
+Biasa
+BiasaTerbuka
+Terbuka
+TerbukaPejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+Biro Umum
+Biro Umum
+jdih.maritim.go.id-19-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+IX HM KEHUMASAN
+1 00
+00
+01
+02
+03
+04
+05
+2 01
+3 02
+00
+01
+02
+03
+04
+05
+1)
+2)
+3)
+4 03 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama  Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro PerencanaanAdministrasi Kegiatan Keprotokolan :
+Penyelenggaraan Acara Kedinasan (Upacara, Pelantikan,
+Peresmian, dan Jamuan termasuk Acara Peringatan Hari-Hari
+Besar)
+Kunjungan Dinas Dalam dan Luar Negeri
+Agenda Pimpinan
+Dokumen Memorandum of Understanding  (MoU) dan Kerjasama
+Dokumentasi/Liputan Kegiatan Dinas Pimpinan dan Acara
+Kedinasan Dalam Bentuk Video dan Foto
+Daftar Nama/Alamat Kantor/Pejabat
+Pengumpulan, Pengolahan dan Penyajian Informasi Kelembagaan
+Hubungan antar Instansi Pemerintah dan Non Pemerintah
+Hubungan antar Lembaga Pemerintah
+Hubungan dengan Organisasi Sosial/Lembaga Swadaya
+Masyarakat (LSM)
+Hubungan dengan Badan Usaha
+Hubungan dengan Perguruan Tinggi/Sekolah, termasuk Magang,
+Pendidikan Sistem Ganda (PSG)/Praktek Kerja Lapangan (PKL)
+Forum Kehumasan (Badan Koordinasi Kehumasan Masyarakat/
+Perhimpunan Hubungan Masyarakat Indonesia)
+Hubungan dengan Media Massa :
+Siaran Pers/Konfrensi Pers/ Press Release
+Kunjungan Wartawan/Peliputan
+Wawancara
+Dokumen Persidangan dan Rapat Paripurna, Rapat Terbatas, Rakor 
+Tingkat Menteri, Rapat Dengar Pendapat DPR/DPD RI, Rapat 
+Internal, dan Pidato Menteri KoordinatorBiasa
+Biasa
+BiasaTerbuka
+Terbuka
+TerbukaPejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro KomunikasiBiro Komunikasi
+Biro Komunikasi
+jdih.maritim.go.id-20-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+5 04 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Komunikasi
+6 05 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Komunikasi
+7 06 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Komunikasi
+8 07 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro Umum
+9 08 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro umum
+X LT PENELITIAN PENGKAJIAN, DAN PENGEMBANGAN
+1 00 Pelaksanaan Penelitian, Pengkajian, dan Pengembangan
+00
+01
+02
+03
+04
+05Dokumentasi dan Penerbitan
+Publikasi Melalui Media Cetak Maupun Elektronik
+Pameran/Sayembara/Lomba, Festival, Pembuatan Spanduk dan 
+Iklan
+Penghargaan/Tanda Kenang-kenangan kepada Masyarakat Memiliki 
+Jasa Prestasi Besar
+Ucapan Terima Kasih, Ucapan Selamat, Bela Sungkawa, dan 
+Permohonan Maaf
+Administrasi Penelitian, Pengkajian, dan Pengembangan
+Hasil Penelitian, Pengkajian, dan Pengembangan
+Sosialisasi dan Diseminasi Hasil Penelitian, Pengkajian, dan
+Pengembangan
+Bimbingan Teknis Penelitian, Pengkajian dan Pengembangan
+Forum Komunikasi Penelitian, Pengkajian,  dan Pengembangan
+Seminar, Lokakarya, Temukarya, WorkshopTerbatas Tertutup Pejabat Pimpinan Tinggi 
+Pratama  Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiBiro umum
+jdih.maritim.go.id-21-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+2 01 Data dan Informasi Penelitian, Pengkajian,  dan Pengembangan
+00
+01
+02
+3 02 Biasa Terbuka Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro umum
+XI PP PERPUSTAKAAN
+1 00 Penyimpanan Deposit Bahan Pustaka
+00
+01
+2 01 Pengadaan dan Pengolahan Bahan Pustaka
+00
+01
+02
+03
+04
+05
+06
+3 02 Layanan Perpustakaan dan Informasi
+00
+01Data Penelitian, Pengkajian, dan Pengembangan
+Informasi  Statistik Penelitian, Pengkajian, dan Pengembangan
+Jurnal Hasil Penelitian, Pengkajian, dan Pengembangan
+Monitoring dan Evaluasi dan Pelaksanaan Penelitian, Pengkajian, 
+dan Pengembangan
+Bukti Penerimaan Koleksi Deposit  Bahan Pustaka
+Administrasi Pengolahan Deposit Bahan Pustaka
+Buku Induk Koleksi
+Daftar Buku Terseleksi
+Daftar Pengiriman Bahan Pustaka Surplus
+Lembar Kerja Pengolahan BP (Buram, Pengkatalogan)
+Shelt List / Jajaran Kartu Utama ( Master List )
+Daftar Tambahan Buku ( Assesion List )
+Daftar/Jajaran kendali (Subyek dan Pengarang)
+Data pengguna/peminjaman bahan pustaka
+Formulir/daftar peminjaman bahan pustakaTerbatas
+Biasa
+Biasa
+BiasaTertutup
+Terbuka
+Terbuka
+TerbukaPejabat Pimpinan Tinggi 
+Pratama 
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinator
+Pejabat pengawas/sub 
+koordinatorMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro umum
+Biro umum
+Biro umum
+Biro umum
+jdih.maritim.go.id-22-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+XII TI TEKNOLOGI INFORMASI
+1
+2 01 Dokumentasi Arsitektur dan Implementasi
+00 Sistem Informasi
+01 Sistem Aplikasi
+02 Infrastruktur
+3 02 Perekaman dan Pemuktahiran Data
+00 Formulir Isian
+01 Daftar Petugas Perekaman
+02 Jadwal Pelaksanaan
+03 Laporan Hasil Perekaman dan Pemuktahiran Data
+4 03 Migrasi Sistem Aplikasi dan Data
+00 Perencanaan Migrasi
+01 Pelaksanaan Migrasi
+02 Berita Acara Migrasi
+03 Daftar Sistem Aplikasi dan Data yang Dimigrasi
+04 Laporan Hasil Migrasi
+5 04
+6 05 Dokumen Hosting
+00 Formulir Permintaan Hosting
+01 Laporan Hasil Uji Kelayakan
+02 Laporan Pelaksanaan HostingRencana Strategis/ Master Plan  Pembangunan Sistem Informasi 
+Manajemen (SIM)00
+Biasa
+Terbatas
+Terbatas
+Terbatas
+BiasaTerbuka
+Tertutup
+Tertutup
+Tertutup
+TerbukaPejabat pengawas/sub 
+koordinatorBiasa Terbuka Pejabat pengawas/sub 
+koordinator
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat pengawas/sub 
+koordinatorTidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Tidak memiliki dampak yang 
+dapat mengganggu kinerja 
+Kementerian Koordinator 
+Bidang Kemaritiman dan 
+InvestasiBiro KomunikasiLayanan Back-up  Data DigitalBiro Komunikasi
+Biro Komunikasi
+Biro Komunikasi
+Biro Komunikasi
+Biro Komunikasi
+jdih.maritim.go.id-23-
+4 5 6 7 8 1 2 3KLASIFIKASI 
+KEAMANANHAK AKSES 
+UNTUK 
+PUBLIKHAK AKSES DASAR PERTIMBANGANUNIT 
+PENGOLAHNOKODE
+KLASIFIKASIJENIS ARSIP
+XIII PENGAWASAN
+1 00 Rencana Pengawasan
+00
+01
+02
+03
+04
+2 01 Pelaksanaan Pengawasan
+00
+01
+02
+03
+04
+05
+06
+07
+08PW
+Rencana Strategis Pengawasan
+Rencana Kerja Tahunan
+Rencana Kinerja Tahunan
+Penetapan Kinerja Tahunan
+Rapat Koordinasi Pengawasan Tingkat Nasional
+Pengawasan Audit yang Memerlukan Tindak Lanjut
+Pengawasan Audit Investigasi yang Memerlukan Tindak Lanjut
+Pengawasan Audit yang Tidak Memerlukan Tindak Lanjut
+Pengawasan Audit Investigasi yang Tidak Memerlukan Tindak
+Lanjut
+Laporan Perkembangan Penanganan Surat Pengaduan
+Masyarakat
+Laporan Pemuktahiran Data Tindak Lanjut Temuan
+Laporan Perkembangan Barang Milik Negara 
+Laporan Kegiatan Pendampingan Penyusunan Laporan Keuangan
+dan Reviu Instansi Kementerian Koordinator Bidang Kemaritiman
+dan Investasi 
+Tata Kelola Pemerintahan yang Baik ( Good Corporate Governance )
+MENTERI KOORDINATOR BIDANG KEMARITIMAN
+DAN INVESTASI REPUBLIK INDONESIA,
+Ttd
+LUHUT B. PANDJAITANTerbatas
+TerbatasTertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama 
+Pejabat Pimpinan Tinggi 
+Pratama  Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiInspektorat
+Inspektorat
+jdih.maritim.go.id4 5 6 7 8
+I DE KEDAULATAN MARITIM DAN ENERGI
+1 00
+2 01 HUKUM DAN PERJANJIAN MARITIM
+00
+01
+02
+3 02 KEAMANAN DAN KETAHANAN MARITIM
+00LAMPIRAN  II
+PERATURAN MENTERI KOORDINATOR  BIDANG KEMARITIMAN DAN 
+INVESTASI NOMOR  1  TAHUN 2022 TENTANG SISTEM KLASIFIKASI 
+KEAMANAN DAN AKSES ARSIP DINAMIS KEMENTERIAN KOORDINATOR 
+BIDANG KEMARITIMAN DAN INVESTASI
+SISTEM KLASIFIKASI KEAMANAN DAN AKSES ARSIP DINAMIS SUBSTANTIF
+KEMENTERIAN KOORDINATOR BIDANG KEMARITIMAN DAN INVESTASI
+1 2 3
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+kementerian/lembaga terkait dengan isu bidang peraturan
+perundang-undangan maritim nasional, perjanjian bilateral dan
+regional, dan hukum laut dan maritim internasional.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu/masalah bidang peraturan perundang-
+undangan maritim nasional, perjanjian bilateral dan regional,
+dan hukum laut dan maritim internasional.
+Pemantauan/tindaklanjut hasil rekomendasi pelaksanaan
+kebijakan terkait dengan isu/masalah bidang peraturan
+perundang-undangan maritim nasional, perjanjian bilateral dan
+regional, dan hukum laut dan maritim internasional.HAK AKSES 
+UNTUK 
+PUBLIK
+Tertutup
+TertutupUNIT 
+PENGOLAH
+Sekretariat Deputi 
+Bidang Koordinasi 
+Kedaulatan 
+Maritim dan 
+Energi
+Asisten Deputi  
+Hukum dan 
+Perjanjian Maritim
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang keamanan
+dan pengawasan maritim, ketahanan maritim, serta keamanan
+dan ketahanan wilayah pesisir dan pulau-pulau kecil.KLASIFIKASI 
+KEAMANAN
+Terbatas
+Terbatas
+Terbatas TertutupHAK AKSES
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaDASAR PERTIMBANGAN
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Keamanan dan 
+Ketahanan 
+MaritimNOKODE
+KLASIFIKASIJENIS ARSIP
+jdih.maritim.go.id-2-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+01
+02
+4 03
+00
+01
+02
+5 04
+00
+01
+02Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu bidang keamanan dan pengawasan maritim,
+ketahanan maritim, serta keamanan dan ketahanan wilayah
+pesisir dan pulau-pulau kecil.
+Pemantauan/tindaklanjut hasil rekomendasi pelaksanaan
+kebijakan terkait isu/masalah bidang keamanan dan
+pengawasan maritim, ketahanan maritim, serta keamanan dan
+ketahanan wilayah pesisir dan pulau-pulau kecil.
+DELIMITASI ZONA MARITIM DAN KAWASAN PERBATASAN
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang pemetaan,
+data kelautan, dan toponimi, penetapan batas zona maritim,
+pengembangan kawasan perbatasan dan penyelesaian sengketa,
+serta ekstensi landas kontinen dan pengelolaan laut bebas.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang pemetaan, data kelautan, dan
+toponimi, penetapan batas zona maritim, pengembangan
+kawasan perbatasan dan penyelesaian sengketa, serta ekstensi
+landas kontinen dan pengelolaan laut bebas.
+Pemantauan/tindak lanjut hasil rekomendasi pelaksanaan
+kebijakan terkait dengan isu/masalah bidang pemetaan, data
+kelautan, dan toponimi, penetapan batas zona maritim,
+pengembangan kawasan perbatasan dan penyelesaian sengketa,
+serta ekstensi landas kontinen dan pengelolaan laut bebas.
+NAVIGASI DAN KESELAMATAN MARITIM
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+kenavigasian nasional dan internasional, keselamatan maritim,
+dan penanganan kecelakaan maritim
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu bidang kenavigasian nasional dan
+internasional, keselamatan maritim, dan penanganan kecelakaan
+maritim.
+Pemantauan/tindak lanjut hasil rekomendasi pelaksanaan
+kebijakan terkait dengan isu/masalah bidang kenavigasian
+nasional dan internasional, keselamatan maritim, dan
+penanganan kecelakaan maritim.Terbatas
+Terbatas
+TerbatasTertutup
+Tertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat
+mengganggu pelaksanaan tugas
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Keamanan dan 
+Ketahanan 
+Maritim
+Asisten Deputi 
+Delimitasi Zona 
+Maritim dan 
+Kawasan 
+Perbatasan
+Asisten Deputi 
+Navigasi 
+Keselamatan 
+Maritim
+jdih.maritim.go.id-3-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+6 05 ENERGI
+00
+01
+02
+II DM SUMBER DAYA MARITIM
+1 00 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiSekretariat Deputi 
+Bidang Koordinasi 
+Sumber Daya 
+Maritim
+2 01 PENGELOLAAN RUANG LAUT DAN PESISIR
+00
+01
+02Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang program
+dan investasi energi, pendukung infrastruktur kedaulatan energi,
+serta partisipasi dan kerjasama energi.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang program dan investasi energi,
+pendukung infrastruktur kedaulatan energi serta partisipasi dan
+kerjasama energi.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan 
+kebijakan terkait dengan isu/masalah bidang program dan 
+investasi energi, pendukung infrastruktur kedaulatan energi 
+serta partisipasi dan kerjasama energi.
+Kebijakan Sumber Daya Maritim
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang penataan
+ruang dan zonasi, pengelolaan jasa kelautan, serta pengelolaan
+konservasi perairan dan pendayagunaan pulau-pulau kecil.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang penataan ruang dan zonasi,
+pengelolaan jasa kelautan, serta pengelolaan konservasi perairan
+dan pendayagunaan pulau-pulau kecil.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait dengan isu/masalah bidang penataan ruang
+dan zonasi, pengelolaan jasa kelautan, serta pengelolaan
+konservasi perairan dan pendayagunaan pulau-pulau kecil.Terbatas
+TerbatasTertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Energi
+Asisten Deputi 
+Pengelolaan 
+Ruang Laut dan 
+Pesisir
+jdih.maritim.go.id-4-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+3 02
+00
+01
+02
+4 03
+00
+01
+02
+5 04
+00
+01PENGELOLAAN PERIKANAN TANGKAP
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+pengelolaan sumber daya ikan, tata kelola penangkapan ikan,
+dan sarana prasarana penangkapan ikan.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang pengelolaan sumber daya ikan, tata
+kelola penangkapan ikan, dan sarana prasarana penangkapan
+ikan.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait dengan isu/masalah bidang pengelolaan
+sumber daya ikan, tata kelola penangkapan ikan, dan sarana
+prasarana penangkapan ikan.
+PENGEMBANGAN PERIKANAN BUDIDAYA
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+pengelolaan kawasan budidaya perikanan, pembenihan dan
+sarana produksi budidaya, serta sarana prasarana pembudidaya
+ikan.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu bidang pengelolaan kawasan budidaya
+perikanan, pembenihan dan sarana produksi budidaya, serta
+sarana prasarana pembudidaya ikan.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait dengan isu/masalah bidang pengelolaan
+kawasan budidaya perikanan, pembenihan dan sarana produksi
+budidaya, serta sarana prasarana pembudidaya ikan.
+PENINGKATAN DAYA SAING
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang logistik
+produk kelautan dan perikanan, pengelolaan dan bina mutu
+produk kelautan dan perikanan, serta pemasaran produk
+kelautan dan perikanan.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang logistik produk kelautan dan
+perikanan, pengelolaan dan bina mutu produk kelautan dan
+perikanan, serta pemasaran produk kelautan dan perikanan.Terbatas
+Terbatas
+TerbatasTertutup
+Tertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Pengelolaan 
+Perikanan 
+Tangkap
+Asisten Deputi 
+Pengembangan 
+Perikanan 
+Budidaya
+Asisten Deputi 
+Peningkatan Daya 
+Saing
+jdih.maritim.go.id-5-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+02
+6 05 HILIRISASI SUMBER DAYA MARITIM
+00
+01
+02
+III IT INFRASTRUKTUR DAN TRANSPORTASI
+1 00 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiSekretariat Deputi 
+Bidang Koordinasi 
+Infrastruktur dan 
+Transportasi
+2 01
+00
+01
+02Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait dengan isu/masalah bidang logistik produk
+kelautan dan perikanan, pengelolaan dan bina mutu produk
+kelautan dan perikanan, serta pemasaran produk kelautan dan
+perikanan.
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang hilirisasi
+industri kelautan, hilirisasi industri perikanan, dan hilirisasi
+penunjang industri kelautan dan perikanan.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang hilirisasi industri kelautan, hilirisasi
+industri perikanan, dan hilirisasi penunjang industri kelautan
+dan perikanan
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait dengan isu/masalah bidang hilirisasi industri
+kelautan, hilirisasi industri perikanan, dan hilirisasi penunjang
+industri kelautan dan perikanan.
+Kebijakan Infrastruktur dan Transportasi
+INFRASTRUKTUR DASAR, PERKOTAAN, DAN SUMBER DAYA AIR
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+infrastruktur dasar, infrastruktur perkotaan, dan infrastruktur
+sumber daya air dan pantai.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang infrastruktur dasar, infrastruktur
+perkotaan, dan infrastruktur sumber daya air dan pantai.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait dengan isu/masalah bidang infrastruktur
+dasar, infrastruktur perkotaan, dan infrastruktur sumber daya
+air dan pantai.Terbatas
+Terbatas
+TerbatasTertutup
+Tertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat
+mengganggu pelaksanaan tugas
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Peningkatan Daya
+Saing
+Asisten Deputi 
+Hilirisasi Sumber 
+Daya Maritim
+Asisten Deputi 
+Infrastruktur 
+Dasar, Perkotaan, 
+dan Sumber Daya 
+Air
+jdih.maritim.go.id-6-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+3 02
+00
+01
+02
+4 03
+00
+01
+02
+5 04
+00
+01
+02INFRASTRUKTUR PENGEMBANGAN WILAYAH
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+infrastruktur perwilayahan dan penataan ruang, sistem logistik,
+dan infrastruktur perekonomian.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang infrastruktur perwilayahan dan
+penataan ruang, sistem logistik, dan infrastruktur perekonomian.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait dengan isu/masalah bidang infrastruktur
+perwilayahan dan penataan ruang, sistem logistik, dan
+infrastruktur perekonomian.
+INFRASTRUKTUR KONEKTIVITAS
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+infrastruktur konektivitas antar moda, tata kelola transportasi
+terpadu, dan infrastruktur pelayaran.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang infrastruktur konektivitas antar
+moda, tata kelola transportasi terpadu, dan infrastruktur
+pelayaran.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait dengan isu/masalah bidang infrastruktur
+konektivitas antar moda, tata kelola transportasi terpadu, dan
+infrastruktur pelayaran.
+INDUSTRI PENDUKUNG INFRASTRUKTUR
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang industri
+digital, kawasan industri, dan industri bahan baku infrastruktur.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang industri digital, kawasan industri,
+dan industri bahan baku infrastruktur.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang industri digital, kawasan
+industri, dan industri bahan baku infrastruktur.Terbatas
+Terbatas
+TerbatasTertutup
+Tertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Infrastruktur 
+Pengembangan 
+Wilayah
+Asisten Deputi 
+Infrastruktur 
+Konektivitas
+Asisten Deputi 
+Industri 
+Pendukung 
+Infrastruktur
+jdih.maritim.go.id-7-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+6 05 INDUSTRI MARITIM DAN TRANSPORTASI
+00
+01
+02
+IV LH
+1 00 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiSekretariat Deputi 
+Bidang Koordinasi 
+Pengelolaan 
+Lingkungan dan 
+Kehutanan
+2 01 PLANOLOGI KEHUTANAN DAN TATA LINGKUNGAN
+00
+01
+02Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu dibidang industri
+maritim, industri kedirgantaraan dan perkeretaapian, serta
+industri manufaktur dan kendaraan listrik.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang industri maritim, industri
+kedirgantaraan dan perkeretaapian, serta industri manufaktur
+dan kendaraan listrik.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang industri maritim, industri
+kedirgantaraan dan perkeretaapian, serta industri manufaktur
+dan kendaraan listrik.
+PENGELOLAAN LINGKUNGAN DAN KEHUTANAN
+Kebijakan Pengelolaan Lingkungan dan Kehutanan
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang penataan
+kawasan hutan, pengelolaan kawasan gambut, dan optimalisasi
+tata lingkungan.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang penataan kawasan hutan,
+pengelolaan kawasan gambut, dan optimalisasi tata lingkungan.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang penataan kawasan hutan,
+pengelolaan kawasan gambut, dan optimalisasi tata lingkungan.Terbatas
+TerbatasTertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Industri Maritim 
+dan Transportasi
+Asisten Deputi 
+Planologi 
+Kehutanan dan 
+Tata Lingkungan
+jdih.maritim.go.id-8-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+3 02
+00
+01
+02
+4 03
+00
+01
+02
+5 04
+00
+01PENGELOLAAN PRODUK KEHUTANAN DAN JASA LINGKUNGAN
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+pengembangan dan pemasaran produk hutan produksi,
+pengembangan jasa lingkungan, serta pengendalian,
+pemanfaatan, dan pelestarian hutan.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang pengembangan dan pemasaran
+produk hutan produksi, pengembangan jasa lingkungan, serta
+pengendalian, pemanfaatan, dan pelestarian hutan.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang pengembangan dan
+pemasaran produk hutan produksi, pengembangan jasa
+lingkungan, serta pengendalian, pemanfaatan, dan pelestarian
+hutan.
+PENGELOLAAN DAERAH ALIRAN SUNGAI DAN KONSERVASI 
+SUMBER DAYA ALAM
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang penataan
+kawasan daerah aliran sungai, restorasi kualitas sumber daya
+air, serta konservasi sumber daya alam hayati dan ekosistem.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang penataan kawasan daerah aliran
+sungai, restorasi kualitas sumber daya air, serta konservasi
+sumber daya alam hayati dan ekosistem.
+Pemantauan/tindak lanjut hasil rekomendasi pelaksanaan
+kebijakan terkait isu/masalah bidang penataan kawasan daerah
+aliran sungai, restorasi kualitas sumber daya air, serta
+konservasi sumber daya alam hayati dan ekosistem.
+PENGELOLAAN SAMPAH DAN LIMBAH
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+pengelolaan sampah, penanganan limbah, dan pengendalian
+kerusakan lingkungan.
+Pengendalian Kebijakan yang terkait dengan isu diBidang
+pengelolaan sampah, penanganan limbah, dan pengendalian
+kerusakan lingkungan.Terbatas
+Terbatas
+TerbatasTertutup
+Tertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Pengelolaan 
+Daerah Aliran 
+Sungai dan 
+Konservasi 
+Sumber Daya 
+Alam
+Asisten Deputi 
+Pengelolaan 
+Sampah dan 
+LimbahAsisten Deputi 
+Pengelolaan 
+Produk Kehutanan 
+dan Jasa 
+Lingkungan
+jdih.maritim.go.id-9-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+02
+6 05 PENGELOLAAN PERUBAHAN IKLIM DAN KEBENCANAAN
+00
+01
+02
+VPE
+1 00 Terbatas Tertutup Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiSekretariat Deputi 
+Bidang Pariwisata 
+Ekonomi Kreatif
+2 01 PENGEMBANGAN PARIWISATA BERKELANJUTAN
+00
+01
+02Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang pengelolaan sampah,
+penanganan limbah, dan pengendalian kerusakan lingkungan.
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+pengelolaan perubahan iklim, jasa pemanfaatan karbon, dan
+pengendalian kebencanaan.
+Pengendalian Kebijakan yang terkait dengan isu dibidang
+pengelolaan perubahan iklim, jasa pemanfaatan karbon, dan
+pengendalian kebencanaan.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang pengelolaan perubahan
+iklim, jasa pemanfaatan karbon, dan pengendalian kebencanaan.
+PARIWISATA DAN EKONOMI KREATIF
+Kebijakan Pariwisata dan Ekonomi Kreatif
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+pengembangan destinasi pariwisata berkelanjutan, inovasi
+produk pariwisata berkelanjutan, serta pemasaran dan riset
+pariwisata berkelanjutan.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang pengembangan destinasi pariwisata
+berkelanjutan, inovasi produk pariwisata berkelanjutan, serta
+pemasaran dan riset pariwisata berkelanjutan.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang pengembangan destinasi
+pariwisata berkelanjutan, inovasi produk pariwisata
+berkelanjutan, serta pemasaran dan riset pariwisata
+berkelanjutan.Terbatas
+Terbatas
+TerbatasTertutup
+Tertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat
+mengganggu pelaksanaan tugas
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Pengelolaan 
+Sampah dan 
+Limbah
+Asisten Deputi 
+Pengelolaan 
+Perubahan Iklim 
+dan Kebencanaan
+Asisten Deputi 
+Pengembangan 
+Pariwisata 
+Berkelanjutan
+jdih.maritim.go.id-10-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+3 02
+00
+01
+02
+4 03
+00
+01
+02
+5 04
+00
+01PENGEMBANGAN EKONOMI KREATIF
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang strategi
+pengembangan ekonomi kreatif, inovasi pengembangan produk,
+serta pemasaran dan riset ekonomi kreatif.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang strategi pengembangan ekonomi
+kreatif, inovasi pengembangan produk, serta pemasaran dan riset
+ekonomi kreatif.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terlait isu/masalah bidang strategi pengembangan
+ekonomi kreatif, inovasi pengembangan produk, serta pemasaran
+dan riset ekonomi kreatif.
+AKSES PERMODALAN PARIWISATA DAN EKONOMI KREATIF
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu dibidang
+pengembangan akses permodalan, keuangan berkelanjutan, dan
+analisis pasar permodalan.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang pengembangan akses permodalan,
+keuangan berkelanjutan, dan analisis pasar permodalan.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang pengembangan akses
+permodalan, keuangan berkelanjutan, dan analisis pasar
+permodalan.
+KEKAYAAN INTELEKTUAL PARIWISATA DAN EKONOMI KREATIF
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+pemberdayaan informasi kekayaan intelektual, penyelesaian
+sengketa kekayaan intelektual, dan pengembangan kekayaan
+intelektual.
+Pengendalian Kebijakan yang terkait dengan isu diBidang
+pemberdayaan informasi kekayaan intelektual, penyelesaian
+sengketa kekayaan intelektual, dan pengembangan kekayaan
+intelektual.Terbatas
+Terbatas
+TerbatasTertutup
+Tertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Pengembangan 
+Ekonomi Kreatif
+Asisten Deputi 
+Akses Permodalan 
+dan Ekonomi 
+Kreatif
+Asisten Deputi 
+Kekayaan 
+Intelektual 
+Pariwisata dan 
+Ekonomi
+jdih.maritim.go.id-11-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+02
+6 05
+00
+01
+02
+VIIP INVESTASI DAN PERTAMBANGAN
+1 00 Kebijakan Investasi dan Pertambangan Terbatas Tertutup Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiSekretariat Deputi 
+Bidang Koordinasi 
+Investasi dan 
+Pertambangan
+2 01 STRATEGI DAN KEBIJAKAN PERCEPATAN INVESTASI
+00
+01
+02Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang pemberdayaan informasi
+kekayaan intelektual, penyelesaian sengketa kekayaan
+intelektual, dan pengembangan kekayaan intelektual.
+SUMBER DAYA MANUSIA PARIWISATA DAN EKONOMI KREATIF
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+pendidikan, riset pariwisata dan ekonomi kreatif, pelatihan dan
+sertifikasi, serta hubungan antar lembaga.
+Pengendalian Kebijakan yang terkait dengan isu dibidang
+pendidikan, riset pariwisata dan ekonomi kreatif, pelatihan dan
+sertifikasi, serta hubungan antar lembaga.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang pendidikan, riset
+pariwisata dan ekonomi kreatif, pelatihan dan sertifikasi, serta
+hubungan antar lembaga.
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang strategi
+percepatan investasi, kebijakan peningkatan iklim investasi, dan
+percepatan kebijakan pengadaan lahan.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang strategi percepatan investasi,
+kebijakan peningkatan iklim investasi, dan percepatan kebijakan
+pengadaan lahan.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang strategi percepatan
+investasi, kebijakan peningkatan iklim investasi, dan percepatan
+kebijakan pengadaan lahan.Terbatas
+Terbatas
+TerbatasTertutup
+Tertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat
+mengganggu pelaksanaan tugas
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Kekayaan 
+Intelektual 
+Pariwisata dan 
+Ekonomi
+Asisten Deputi 
+Sumber Daya 
+Manusia 
+Pariwisata dan 
+Ekonomi Kreatif
+Asisten Deputi 
+Strategi dan 
+Kebijakan 
+Percepatan 
+Investasi
+jdih.maritim.go.id-12-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+3 02 INVESTASI BIDANG JASA
+00
+01
+02
+4 03 INVESTASI STRATEGIS
+00
+01
+02
+5 04 KERJA SAMA INVESTASI PEMERINTAH DAN BADAN USAHA
+00Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+perencanaan dan analisis investasi bidang jasa, promosi investasi
+dan pengembangan pelaku usaha jasa, serta pemantauan dan
+evaluasi investasi bidang jasa.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu dibidang perencanaan dan analisis investasi
+bidang jasa, promosi investasi dan pengembangan pelaku usaha
+jasa, serta pemantauan dan evaluasi investasi bidang jasa.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang perencanaan dan analisis
+investasi bidang jasa, promosi investasi dan pengembangan
+pelaku usaha jasa, serta pemantauan dan evaluasi investasi
+bidang jasa.
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+perencanaan dan analisis investasi strategis, promosi dan
+fasilitasi investasi strategis, serta pemantauan dan evaluasi
+investasi strategis.
+Pengendalian pelaksanaan kebijakan Kementerian/Lembaga yang
+terkait dengan isu bidang perencanaan dan analisis investasi
+strategis, promosi dan fasilitasi investasi strategis, serta
+pemantauan dan evaluasi  investasi strategis.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang perencanaan dan analisis
+investasi strategis, promosi dan fasilitasi investasi strategis, serta
+pemantauan dan evaluasi  investasi strategis.
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga terkait dengan isu bidang perencanaan
+dan penyiapan kerja sama investasi pemerintah dan badan
+usaha, implementasi kerja sama investasi pemerintah dan badan
+usaha, serta pemantauan dan evaluasi kerja sama investasi
+pemerintah dan badan usaha.Terbatas
+Terbatas
+TerbatasTertutup
+Tertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Kerja Sama 
+Investasi 
+Pemerintah dan 
+Badan UsahaAsisten Deputi 
+Investasi Bidang 
+Jasa
+Asisten Deputi 
+Investasi Strategis
+jdih.maritim.go.id-13-
+4 5 6 7 8 1 2 3HAK AKSES 
+UNTUK 
+PUBLIKUNIT 
+PENGOLAHKLASIFIKASI 
+KEAMANANHAK AKSES DASAR PERTIMBANGAN
+NOKODE
+KLASIFIKASIJENIS ARSIP
+01
+02
+6 05 PERTAMBANGAN
+00
+01
+02Pengendalian Kebijakan yang terkait dengan isu diBidang
+perencanaan dan penyiapan kerja sama investasi pemerintah dan
+badan usaha, implementasi kerja sama investasi pemerintah dan
+badan usaha, serta pemantauan dan evaluasi kerja sama
+investasi pemerintah dan badan usaha.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang perencanaan dan
+penyiapan kerja sama investasi pemerintah dan badan usaha,
+implementasi kerja sama investasi pemerintah dan badan usaha,
+serta pemantauan dan evaluasi kerja sama investasi pemerintah
+dan badan usaha.
+Koordinasi dan sinkronisasi pelaksanaan kebijakan
+Kementerian/Lembaga yang terkait dengan isu bidang
+pengelolaan pertambangan mineral, pengelolaan pertambangan
+batubara, dan strategi pengembangan hilirisasi mineral dan
+batubara.
+Pengendalian Kebijakan yang terkait dengan isu dibidang
+pengelolaan pertambangan mineral, pengelolaan pertambangan
+batubara, dan strategi pengembangan hilirisasi mineral dan
+batubara.
+Pemantauan/tindak lanjut hasil rekomendasi dan pelaksanaan
+kebijakan terkait isu/masalah bidang pengelolaan pertambangan
+mineral, pengelolaan pertambangan batubara, dan strategi
+pengembangan hilirisasi mineral dan batubara.Terbatas
+TerbatasTertutup
+TertutupPejabat Pimpinan Tinggi 
+Pratama
+Pejabat Pimpinan Tinggi 
+PratamaMemiliki dampak yang dapat
+mengganggu pelaksanaan tugas
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan Investasi
+Memiliki dampak yang dapat 
+mengganggu pelaksanaan tugas 
+dan fungsi Kementerian 
+Koordinator Bidang 
+Kemaritiman dan InvestasiAsisten Deputi 
+Kerja Sama
+Investasi 
+Pemerintah dan 
+Badan Usaha
+Asisten Deputi 
+Pertambangan
+MENTERI KOORDINATOR BIDANG KEMARITIMAN DAN 
+INVESTASI REPUBLIK INDONESIA,
+Ttd
+LUHUT B. PANDJAITAN
+jdih.maritim.go.idLAMPIRAN III
+PERATURAN MENTERI KOORDINATOR  BIDANG 
+KEMARITIMAN DAN INVESTASI NOMOR  1  TAHUN 2022 
+TENTANG SISTEM KLASIFIKASI KEAMANAN DAN AKSES 
+ARSIP DINAMIS KEMENTERIAN KOORDINATOR BIDANG 
+KEMARITIMAN DAN INVESTASI
+1 Tidak ada persyaratan dan prosedur khusus
+2 Apabila pesan elektronik atau email berisi data tentang 
+informasi personal maka harus menggunakan enkripsi 
+(encryption), email yang dikirim dengan alamat khusus , 
+password, d an sebagainya
+3 1. Harus ada konfirmasi dari penerima pesan
+elektronik atau email
+2. Menggunakan perangkat yang dikhususkan bagi
+pesan elektronik atau email rahasia.
+3. Menggunakan persandian atau kriptografi
+MENTERI KOORDINATOR BIDANG KEMARITIMAN 
+DAN INVESTASI REPUBLIK INDONESIA,
+Ttd
+LUHUT B. PANDJAITANPENYAMPAIAN INFORMASI BERDASARKAN KLASIFIKASI KEAMANAN DAN AKSES ARSIP DINAMIS
+DI LINGKUNGAN KEMENTERIAN KOORDINATOR BIDANG KEMARITIMAN DAN INVESTASI
+Terbuka Tidak ada persyaratan dan prosedur khusus
+Terbatas Amplop segel
+Rahasia 1. Menggunakan warna dan kertas yang berbeda
+2. Diberi kode "RAHASIA"
+3. Menggunakan amplop double
+4. Amplop segel, stempel Rahasia
+5. Konfirmasi tanda terima
+6. Harus dikirim oleh orang yang diberikan wewenang dan tanggung
+jawab terhadap pengendalian arsip/dokumen RahasiaNO ARSIP ELEKTRONIK TINGKAT KLASIFIKASI KEAMANAN ARSIP KONVENSIONAL
+jdih.maritim.go.id
